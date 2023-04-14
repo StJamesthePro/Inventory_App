@@ -1,0 +1,79 @@
+[
+  {
+    "food_Name": "Apple",
+    "weight": "8oz",
+    "price": "$1.05",
+    "quantity": "1",
+    "expiration_date": "1/04/24"
+  },
+  {
+    "food_Name": "Orange",
+    "weight": "3lbs",
+    "price": "$.95",
+    "quantity": "6",
+    "expiration_date": "11/04/24"
+  },
+  {
+    "food_Name": "Banana",
+    "weight": "2lbs",
+    "price": "$.88",
+    "quantity": "8",
+    "expiration_date": "3/13/24"
+  },
+  {
+    "food_Name": "Ground Beef",
+    "weight": "2lbs",
+    "price": "$3.05",
+    "quantity": "1",
+    "expiration_date": "10/09/24"
+  },
+  {
+    "food_Name": "Bread",
+    "weight": "16oz",
+    "price": "$2.05",
+    "quantity": "1",
+    "expiration_date": "6/21/23"
+  },
+  {
+    "food_Name": "Kale Greens",
+    "weight": "2lbs",
+    "price": "$3.05",
+    "quantity": "1",
+    "expiration_date": "9/04/24"
+  },
+  {
+    "food_Name": "Hot Sauce",
+    "weight": "12oz",
+    "price": "$1.95",
+    "quantity": "1",
+    "expiration_date": "8/30/25"
+  },
+  {
+    "food_Name": "Ginger Tea",
+    "weight": "16.9oz",
+    "price": "$2.05",
+    "quantity": "10",
+    "expiration_date": "1/04/24"
+  },
+  {
+    "food_Name": "Chicken Breast",
+    "weight": "5lbs",
+    "price": "$2.15",
+    "quantity": "2",
+    "expiration_date": "1/04/24"
+  },
+  {
+    "food_Name": "Milk",
+    "weight": "64oz",
+    "price": "$2.95",
+    "quantity": "1",
+    "expiration_date": "1/04/24"
+  },
+  {
+    "food_Name": "Pinapple",
+    "weight": "1lb",
+    "price": "2.00",
+    "quantity": "2",
+    "expiration_date": "12/3/2023"
+  }
+]
